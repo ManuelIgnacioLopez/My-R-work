@@ -1,5 +1,0 @@
-#c<-scan()
-temperatura<-rnorm(435,18,9)
-set.seed(6, NULL, NULL, NULL)
-hist(temperatura,main="graficardium")
-boxplot(temperatura, main="graficovich")
